@@ -34,7 +34,7 @@ jobs:
           # Filename for archive
           filename: 'Furry-Collection.zip'
           # Working directory before zipping
-          directory: ./Mod-Files/**
+          directory: ./Mod-Files
       - name: Upload Release
         uses: ncipollo/release-action@v1
         with:

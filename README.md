@@ -1,5 +1,6 @@
 # TS4-Furry-Collection
 Adds wolf patterns as well as a GSD pattern for [Savestate's Furry Mod](http://www.savestatecomic.com/dlc/).
+Also available on [Nexus Mods](https://www.nexusmods.com/thesims4/mods/1181)
 
 ## Installation
 Place the .package into \*Documents Folder\*/Electronic Arts/The Sims 4/Mods. Make sure you have mods enabled in The Sims 4. All of the patterns can be found in-game under the Tattoos category.
